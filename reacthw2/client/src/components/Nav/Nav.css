@@ -1,0 +1,9 @@
+.navbar {
+  border-radius: 0;
+  background-color: black;
+  color: white;
+}
+
+#navbarNav {
+  font-style: oblique;
+}

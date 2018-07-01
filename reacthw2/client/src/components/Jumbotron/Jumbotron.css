@@ -1,0 +1,19 @@
+.jumbotron {
+	background-image: url("http://pluspng.com/img-png/nytimes-logo-png--1638.png");
+    
+    background-repeat: no-repeat;
+	background-position: center;
+	-webkit-background-size: cover;
+	background-size: cover;
+	margin-bottom: 0px;
+    text-align: center;
+}
+
+.jumbotron h1 {
+	font-family: 'Montserrat', sans-serif;
+	font-size: 65px;
+	text-transform: uppercase;
+	font-weight: 900;
+	color: white;
+}
+

@@ -1,0 +1,14 @@
+.card {
+	background-image: url("https://i.ytimg.com/vi/yGEOXfRfLAo/maxresdefault.jpg");
+    
+    background-repeat: no-repeat;
+	background-position: center;
+	-webkit-background-size: cover;
+	background-size: cover;
+	margin-bottom: 0px;
+    text-align: center;
+}
+
+.card-header {
+    background-color: white;
+}
