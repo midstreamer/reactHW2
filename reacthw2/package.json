@@ -1,7 +1,9 @@
 {
   "name": "reacthw2",
   "version": "1.0.0",
-  "engines":{"node":"9.10.0"},
+  "engines":{
+    "node":"9.10.0"
+  },
   "description": "NYTimes search app built using react",
   "main": "server.js",
   "scripts": {
